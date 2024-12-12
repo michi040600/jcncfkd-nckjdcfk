@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head>
+    <title> De parte del taz!! </title>
+    <style>
+        body{ 
+          background-color: #ffb5c0;  
+        }
+    </style>
+    <body>
+        <a href="pagina mama.html" class="boton"> Regresar al inicio </a>
+        <a href="SORPRESAA" class="boton"> Pagina sorpresa</a>
+        <h1 style="font-size: 60px;">FELIZ CUMPLEAÑOS MAMA WOOF WOOF!!</h1>
+        <style>
+            h1 {
+                text-align: center; /* Centra el encabezado horizontalmente */
+                font-size: 36px;
+            }
+        </style>
+    </head>
+
+       
+        <P style="font-size: 70px;"> Felicidades mami, te amo mucho, gracias por amarme, darme muuuuuuchaaaaaaaa comida y besistos, sobarme la panzita, pagarle a Diana para que 
+            venga por mi y todo lo demas, te amoooooooooooo🦮🦮❤❣💞💘💝 </P>
+            
+            <img src="imagenes/043cc65e-84f9-4356-8931-f9ff22b3b7ea.JPG" alt=""
+            width="500"
+            height="">
+           
+
+            <p style="font-size: 70PX;"> TE AMO MAMAAAAAA FELIZ CUMPLEEE WOOF WOOF 💘💘</p>
+
+            <img src="imagenes/IMG_5878.jpg" alt=""
+            width="300"
+            height=""> 
+
+            <img src="imagenes/IMG_4793.jpg" alt=""
+            width="300"
+            height="">

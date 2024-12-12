@@ -1,0 +1,36 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head>
+    <title> FELIZ CUMPLEAÑOS MA!!!</title>
+<style>
+    body{ 
+      background-color: #ffb5c0;  
+    }
+</style>
+
+<body>
+<a href="pagina mama.html" class="boton"> Regresar al inicio </a>
+<a href="de parte del taz" class="boton"> De parte del Taz</a>
+
+
+<h1 style="font-size: 60px;">HAPPY BIRTHDAY BEAUTIFUL😘😍</h1>
+<style>
+    h1 {
+        text-align: center; /* Centra el encabezado horizontalmente */
+        font-size: 36px;
+    }
+</style>
+
+<img src="imagenes/imagen mark.jpeg" alt=""
+width="500"
+height=""> 
+
+<P style="font-size: 50px;"> I WANT TO SAY HAPPY BIRTHDAY TO THE MOST BEAUTIFUL WOMAN IN THE WORLD  LOVE, MARK W.</P>
+
+<img src="imagenes/imagen dean hbd.jpeg" alt=""
+width="500"
+height=""> 
+<P style="font-size: 50px;"> HAPPY BIRTHDAY ANITA, YOU ARE SO GORGEOUS HOPE YOU HAVE THE BEST DAY I LOVE YOU SO MUCH!! SINCERELY, DEAN W. </p>
+
+
+</body>
